@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some questions and answers shewing man his duty, and pointing him to the principle of God in his heart ... : As also, some questions and answers concerning the seed of Jacob, and the true church. / By Isaac Pennington.</title>
+            <author>Penington, Isaac, 1616-1679.</author>
+         </titleStmt>
+         <extent>Approx. 49KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90397</idno><idno type="EEBO-CITATION">45789371</idno>
+  <idno type="VID">172682</idno>
+  <idno type="EEBO-PROQUEST">2240883730</idno>
+  
+            <idno type="STC">Wing P1202</idno>
+            <idno type="STC">ESTC R212691</idno>
+            <idno type="OCLC">45789371</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172682)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2645:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some questions and answers shewing man his duty, and pointing him to the principle of God in his heart ... : As also, some questions and answers concerning the seed of Jacob, and the true church. / By Isaac Pennington.</title>
+                  <author>Penington, Isaac, 1616-1679.</author>
+               </titleStmt>
+               <extent>[10], 39 [i.e. 37] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errors in paging: numbering goes from p.6 to p.9.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England --  Doctrines --  Miscellanea.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172682:1"/>
+            <p> SOME QUESTIONS AND ANSWERS SHEWING Man his Duty, AND Pointing him to the Principle of God in his heart, which is the root of Life in all Dispensations; and which, being kept to, is able to bear the fruit of life in every dispensation.</p>
+            <p>
+               <hi>As also,</hi> Some Questions and Answers con<g ref="char:EOLhyphen"/>cerning the Seed of <hi>Jacob,</hi> and the true CHURCH.</p>
+            <p>By <hi>ISAAC PENNINGTON.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilson,</hi> 1662.</p>
+            <pb facs="tcp:172682:2"/>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:172682:2"/>
+            <head>The Preface.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He goodness of God en<g ref="char:EOLhyphen"/>dureth for ever. And though his creature Man (who should have been subject and obedient to him) hath sinned against him, and by motions and inclinations of his own will and wisdom (out of the Princi<g ref="char:EOLhyphen"/>ple of his pure Life, which was to have been his Guide and Governor) hath fallen short of his glory: Yet he still pleaseth to visit his poor lost creature with loving-kindness and mercy, and with various dispensati<g ref="char:EOLhyphen"/>ons of his life, according to his plea<g ref="char:EOLhyphen"/>sure. What man is there, that hath not received a soul from the breath of the Almighty? And what soul is it, that hath not some visitations of life from that living breath? The
+<pb facs="tcp:172682:3"/> bowels of Eternity most naturally rowle towards all its off-spring, who seeketh the gathering of them all in the variety, and according to the li<g ref="char:EOLhyphen"/>mitations of his Will, in his pure Wisdom.</p>
+            <p>There is a Current or Stream of Life before the Promise is known, which secretly visits all, discovering the darkness in some measure unto all, and drawing from it. And happy is he, who falls in with, and follows the leadings of the Almighty here: for then he cannot abide in the dark<g ref="char:EOLhyphen"/>ness, but (still according to the need of his condition) wil meet with a true guide out of it, and with the true Power which redeemeth and delivereth from it. For as the pro<g ref="char:EOLhyphen"/>mise made to <hi>Adam,</hi> had relation to all his posterity: so whoever is visi<g ref="char:EOLhyphen"/>ted with any Light by virtue of the promise, that Light will lead him to the promise, and he (in the obedi<g ref="char:EOLhyphen"/>ence thereof) will meet with the
+<pb facs="tcp:172682:3"/> sweetness and virtue of the promise. So that the lowest dispensation of God (the Creature being exercised therein, feeling the want of God's Power, and drawn to depend upon him for mercy and strength) wil lead fallen man back again to his Maker, by the vertue which flows into man from the promise, though never so secretly and hiddenly. For it is not the distinct knowledge of the pro<g ref="char:EOLhyphen"/>mise (though that is a very great advantage) but the vertue flowing from the promise, which saves. Man being touched by that vertue, and by the touch thereof quickened towards God, and in that vertue which comes from the redeeming mercy, cleaving to his Maker, and hop<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng in his tender bowels, and feeling the weaknesse, insufficiency and cor<g ref="char:EOLhyphen"/>ruption of his own will and under<g ref="char:EOLhyphen"/>standing, and so going forth from himself towards the Spring which quickened him: Here is Christ
+<pb facs="tcp:172682:4"/> known in spirit, received in spirit, believed and relied on in spirit, and his living vertue already felt and further waited for. And can this man, thus walking, thus believing, thus obeying, thus cleaving to the Principle which gives life, thus re<g ref="char:EOLhyphen"/>ceiving vertue from it, and growing up (in that virtue) out of the selfe<g ref="char:EOLhyphen"/>hood into it, I say, Can this man miss of eternal life which runs along in all the streamings forth of this living virtue?</p>
+            <p>But O how sweet is the stream of life in the sensible manifestation of the promise! He who feels the Co<g ref="char:EOLhyphen"/>venant in Christ, and life streaming into his heart through the Covenant; and the seal of Eternal Peace to his soul, and that he shall never be left nor forsaken by the Fountain of Mercy, but all that ever befalls him, shall conduce towards <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he working out of the perfect redemp<g ref="char:EOLhyphen"/>tion and salvation of his soul: This
+<pb facs="tcp:172682:4"/> is a precious state indeed; and this is the state, which the seeling of the faith, and the living obedience in the spirit leads to. Happy are they that walk in the path thereof, who content not themselves with man's knowledge of Christ, with man's be<g ref="char:EOLhyphen"/>lief of the things written concern<g ref="char:EOLhyphen"/>ing him, with man's obedience to the Precepts left on Record by the Apostles; but whose living soul cannot be satisfied, without the feel<g ref="char:EOLhyphen"/>ing and pressing after Christ the life, and without a true engrafting into him in spirit, through the living Word or Testimony of life recei<g ref="char:EOLhyphen"/>ved into, and believed on in the heart.</p>
+            <p>And how sweet also is the Mini<g ref="char:EOLhyphen"/>stration of the Law, which comes from the Promise, and is managed to the soul by the hand of the Me<g ref="char:EOLhyphen"/>diator! How sweet is it to see the creature fall daily! To find ones own strength to believe, to obey, to
+<pb facs="tcp:172682:5"/> suffer, to abide with Christ, to wait on Christ, to hope for Christ, daily battered and brought to nothing, and no life left, but what issues from the Spring, and is alone maintain<g ref="char:EOLhyphen"/>ed by the free Current thereof into the heart daily! Here the stroke of the Law is received, by degrees un<g ref="char:EOLhyphen"/>to perfect death. Here are the o<g ref="char:EOLhyphen"/>penings of the pure Prophesies in the Spirit concerning a new King<g ref="char:EOLhyphen"/>dom, a new Birth, a new Heir, a new Life. Here is the Ax laid to the root of the Tree, and that cut down in the heart which is not to live, and which hinders the Heir from his Inheritance. Here is the vale of tears, which tears spring from the life, whose virtue wash<g ref="char:EOLhyphen"/>eth away the corruptible day by day. Here is the house of Mourn<g ref="char:EOLhyphen"/>ing, and that state of darkness en<g ref="char:EOLhyphen"/>tered into, which swallows up all the joy of the dark earthly spirit, and consumes its nature. Here the
+<pb facs="tcp:172682:5"/> light of life is sown, and through these exercises it springs up; and af<g ref="char:EOLhyphen"/>ter the passing away of this Mini<g ref="char:EOLhyphen"/>stration, breaks forth in strength up<g ref="char:EOLhyphen"/>on that soul, which hath been throughly exercised herein.</p>
+            <p>I desire the good of all mankind, waiting for the swallowing up of the dispensations of death, and the breaking forth of life upon them in the seasons thereof, according to the good pleasure of him whose gift life is, and whose are all the dispensati<g ref="char:EOLhyphen"/>ons of it. And in that love, through the openings and drawings of life in me, have I writ what follows: not to upbraid or strike at any, but to be an help unto such, as the Lord shall pleas to make it serviceable to. Wait on the Lord, eye him, read in fear, praying to be touched by, and ga<g ref="char:EOLhyphen"/>thered into that, which gives the feeling of the weight of truth. O that mens souls were awakened, that they might know what it is to perish
+<pb facs="tcp:172682:6"/> from God, and what to be saved by him. The proper portion of man's soul is the Fountain of Eternal Life, and he can never be happy (nor in true rest, peace or joy) while sepa<g ref="char:EOLhyphen"/>rated from it. Let him who is not bru<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ish in und<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rstanding, and whose soul is not wholly dead God-wards, consider this.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:172682:6"/>
+            <head>Some Questions and An<g ref="char:EOLhyphen"/>swers shewing man his duty, &amp;c.</head>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi>
+                  <seg rend="decorInit">W</seg>Hat is the proper work of man here in this world?</p>
+               <p>
+                  <hi>Ans.</hi> To fear God, and keep his Com<g ref="char:EOLhyphen"/>mandments. This is all that God requires of him, and this is enough to make him happy.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What is God?</p>
+               <p>
+                  <hi>Ans.</hi> The Fountain of Beings and Natures, the inward Substance of all that appears, who createth, uphold<g ref="char:EOLhyphen"/>eth, consumeth and bringeth to no<g ref="char:EOLhyphen"/>thing as he pleaseth.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> How may I know that there is a God?</p>
+               <p>
+                  <hi>Ans.</hi> By sinking down into the Prin<g ref="char:EOLhyphen"/>ciple of his own life, wherein he revea<g ref="char:EOLhyphen"/>leth himself to the creature. There the soul receiveth such tasts and knowledge
+<pb n="2" facs="tcp:172682:7"/> of him, as cannot be questioned by him that abideth there.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What is it to fear this God?</p>
+               <p>
+                  <hi>Ans.</hi> The spirit and soul of the crea<g ref="char:EOLhyphen"/>ture standing in awe of his Nature, and waiting to be kept in due subjection thereto, this is to fear him. And this is the proper means of preserving the Spirit of the creature right in its moti<g ref="char:EOLhyphen"/>ons towards him, attendance upon him, and expectations from him.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What are his Commandments?</p>
+               <p>
+                  <hi>Ans.</hi> They are such as are either general to all mankind, common to some sorts of men, or proper to particular per<g ref="char:EOLhyphen"/>sons.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What are those which are general to all mankind?</p>
+               <p>
+                  <hi>Ans.</hi> They are very many, but may all be referred to those two heads, to wit, <hi>To love God above all, and one's neigh<g ref="char:EOLhyphen"/>bour as one's self</hi> even so in every respect doing to him as one would be done to by him in the like case.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> How may man perform these?</p>
+               <p>
+                  <hi>Ans.</hi> Onely by receiving a principle of life from God, and keeping close thereto.</p>
+            </div>
+            <div type="question">
+               <pb n="3" facs="tcp:172682:7"/>
+               <p>
+                  <hi>Qu.</hi> How may a man come by a Principle of Life from God?</p>
+               <p>
+                  <hi>Ans.</hi> God is near to every man with the breath of his life, breathing upon him at times according to his plea<g ref="char:EOLhyphen"/>sure, which man's spirit opening unto, and drinking in, it becometh a Seed or Principle of Life in him, overspreading and leavening him up to eternal life?</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What hinders man from receiving this Principle of Life, and from keeping close thereto?</p>
+               <p>
+                  <hi>Ans.</hi> A fleshly Principle, which is contrary to the knowledge, fear and o<g ref="char:EOLhyphen"/>bedience of the Lord▪ and to all that springs from the Principle and Power of his Life.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> How comes this fleshly Principle to be found in man?</p>
+               <p>
+                  <hi>Ans.</hi> It was sown there by the enemy of mans soul, man giving him entrance into his spirit, by hearkening to his sug<g ref="char:EOLhyphen"/>gestions and allurements.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What help hath man against this fleshly Principle?</p>
+               <p>
+                  <hi>Ans.</hi> None of himself: but being touched freely by the other Principle, and tasting thereof, he is to wait on God's mercy and grace, for the mani<g ref="char:EOLhyphen"/>festation
+<pb n="4" facs="tcp:172682:8"/> of his light and power, to dis<g ref="char:EOLhyphen"/>cover to him the evil nature and course of his own heart, and to cut down the corrupt desires, reasonings and imagi<g ref="char:EOLhyphen"/>nations thereof?</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> In what way it this effected upon the heart?</p>
+               <p>
+                  <hi>Ans.</hi> In the hearts belief of this Principle, and in its obedience thereto.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> How may a man come to believe in this Principle?</p>
+               <p>
+                  <hi>Ans.</hi> In feeling its nature, in waiting to feel somewhat begotten by it: in this its light springs, its life springs, its love springs, its hidden power appears, and its preserving wisdom and goodness is made manifest to the soul that clings to it in the living sence, which its pre<g ref="char:EOLhyphen"/>sence and appearance begets in the soul.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> How may a man come to obey this Principle.</p>
+               <p>
+                  <hi>Ans.</hi> In the Faith, in the eying of it, in the clinging to it, the strength issues from it into the creature, which maketh it able to perform all that it calleth for.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> How come persons to be so weak, and to complain so much for want of power,
+<pb n="5" facs="tcp:172682:8"/> who feel a true beginning of life, and earnest breathings after God?</p>
+               <p>
+                  <hi>Ans.</hi> From the enemies interposing of reasonings between them and their Faith. The darkness, the principle of unbelief lies near, and is still raising mud (as much as possible) between the Principle of Life and the soul: and so far as it can come between, it disturb<g ref="char:EOLhyphen"/>eth both the motions of the soul to<g ref="char:EOLhyphen"/>wards its spring or principle of life, and also the springs clear bubling up in, and running through the soul.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What is to be done in this case?</p>
+               <p>
+                  <hi>Ans.</hi> The soul is to wait God's sea<g ref="char:EOLhyphen"/>sons of deliverance from these, and to hope for an hidden support from his Grace, while the visitations and lead<g ref="char:EOLhyphen"/>ings of his life are not made manifest.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What ground is there for this hope?</p>
+               <p>
+                  <hi>Ans.</hi> There is ground of hope for the creature in God's goodness, who naturally loveth and seeketh after the souls which he hath made, and doth not readily nor easily cast off in any of his dispensations. Besides, where he hath begotten somewhat, and where the bent of the heart is towards him,
+<pb n="6" facs="tcp:172682:9"/> and the desire after his pure life and spirit (above all things) kindled; there hath he laid the foundation of a building, which (though at present it may lie in the dust, and under heaps of ruines) he cannot forget.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Are there other Commands besides these, common to some sorts of men?</p>
+               <p>
+                  <hi>Ans.</hi> Yes▪ according to that dispen<g ref="char:EOLhyphen"/>sation of life and mercy unto which they are called, and into which they are admitted by the love and kindness of God, which overspreadeth all his works, and who forgetteth not his crea<g ref="char:EOLhyphen"/>tures in their estate of separation and alienation from him.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Are there then more dispensations of life and mercy than one?</p>
+               <p>
+                  <hi>Ans.</hi> Yes. For though the life and mercy in it self is but one, yet it hath several waies of seeking out after, and gathering into it self the lost sons of <hi>A<g ref="char:EOLhyphen"/>dam▪</hi>
+               </p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What have been the chief waies of dispensing the Light of Life towards man<g ref="char:EOLhyphen"/>kind?</p>
+               <p>
+                  <hi>Ans.</hi> First, By a secret shining into their hearts. Thus the soul of the Lord holdeth forth some beams of his eter<g ref="char:EOLhyphen"/>nal
+<pb n="9" facs="tcp:172682:9"/> Light to all mankind, according to his pleasure, at some time or other visiting the darkest corners of the earth, and making some way therein for the scattering of that darknesse which separates the soul from the Light of Life, and from the sweet presence and enjoyment of its Creator, which naturally flows in to every soul in its believing and obeying of that Light.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Were ever any thus gathered to the Lord?</p>
+               <p>
+                  <hi>Ans.</hi> The Lord is able to make any Dispensation of his life effectual. And as many of the Jews were not gather<g ref="char:EOLhyphen"/>ed by the Law: so, many of the Gen<g ref="char:EOLhyphen"/>tiles might be gathered without the Law.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> But the Law gave the knowledge of the Messiah to come through faith, in whom was the remission of sins known; and strength against sin?</p>
+               <p>
+                  <hi>Ans.</hi> The knowledge of Christ runs along in all the Dispensations of the Eternal Light. The Light cometh from him, and it manifests him in spirit, and the remission by his blood is spiritually known in the souls feeling the living virtue thereof. The Law and the Go<g ref="char:EOLhyphen"/>spel
+<pb n="10" facs="tcp:172682:10"/> are both known in spirit, where<g ref="char:EOLhyphen"/>ever the eternal Light visiteth and is received.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What are the Commands com<g ref="char:EOLhyphen"/>mon to those?</p>
+               <p>
+                  <hi>Ans.</hi> They are known to those who are thus gathered, who in the life thus dispensed feel the leadings of it, and in its Light are sensible of those requirings, which universally stream forth from it among those who are thus gathered.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What other way of dispensing the Light of Life hath there been?</p>
+               <p>
+                  <hi>Ans.</hi> That of the promise to the Fa<g ref="char:EOLhyphen"/>thers, which was before the Law, wherein they saw the day of the Messiah, and were glad. This was a glorious Dispensation, in which they tasted the Son-ship, and felt power to walk with God, and faith to trust him in his leadings, and were translated by him (in a sweet and precious degree) into the measure of his Life, which made them Pil<g ref="char:EOLhyphen"/>grims and strangers in this World, and steered their spirits towards another Countrey.</p>
+            </div>
+            <div type="question">
+               <pb n="11" facs="tcp:172682:10"/>
+               <p>
+                  <hi>Quest.</hi> What were the Commands com<g ref="char:EOLhyphen"/>mon to these?</p>
+               <p>
+                  <hi>Ans.</hi> They were seen by them in the streamings forth of that Dispensa<g ref="char:EOLhyphen"/>tion of Life among them, a taste whereof the quickened spirit may have, in reading the words con<g ref="char:EOLhyphen"/>cerning them up and down the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What further dispensation of life hath there been?</p>
+               <p>
+                  <hi>Ans.</hi> That of the Law to the <hi>Jews.</hi>
+               </p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Was that a Ministration of life? was it not rather a Ministration of death and condemnation?</p>
+               <p>
+                  <hi>Ans.</hi> It proved so in its effect through the weakness of their starc: but its natural tendency and proper effect, in case of obedience thereto, was life. And also in the midst of its admini<g ref="char:EOLhyphen"/>string death and condemnation, it pointed to him who was the justificati<g ref="char:EOLhyphen"/>on and the life: insomuch as the Law was kind to them in slaying them, and serviceable to the life of such souls, as kindly received the stroke thereof, and fled to the hope set be<g ref="char:EOLhyphen"/>fore them.</p>
+            </div>
+            <div type="question">
+               <pb n="12" facs="tcp:172682:11"/>
+               <p>
+                  <hi>Qu.</hi> What were the common Laws a<g ref="char:EOLhyphen"/>mongst these?</p>
+               <p>
+                  <hi>Ans.</hi> They are to be read in the wri<g ref="char:EOLhyphen"/>tings of <hi>Moses</hi> and the Prophets, where<g ref="char:EOLhyphen"/>in God's Law and Testimonies were a<g ref="char:EOLhyphen"/>bundantly given forth to that peo<g ref="char:EOLhyphen"/>ple.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Have there been yet any further Dispensations of life?</p>
+               <p>
+                  <hi>Ans.</hi> Yes, that of the Gospel, be<g ref="char:EOLhyphen"/>fore the Apostacy and falling away from the living truth and power of the spirit, into man's wisdom, inventions and imitations.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What were the Laws common to these?</p>
+               <p>
+                  <hi>Ans.</hi> They may be read in the Wri<g ref="char:EOLhyphen"/>tings of the Evangelists and Apostles, where the Record of this Ministrati<g ref="char:EOLhyphen"/>on is to be found.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What hath the Ministration of Life been since the Apostles days?</p>
+               <p>
+                  <hi>Ans.</hi> Very low, very weak, very dark, very hidden, exceedingly reti<g ref="char:EOLhyphen"/>red. Yet true Children have been be<g ref="char:EOLhyphen"/>gotten, and food hath been handed to them from the Father, and they have been nourished up in the Faith, and have kept the Commandments of
+<pb n="13" facs="tcp:172682:11"/> their day, and dyed in the Faith: And those who have thus been led and pre<g ref="char:EOLhyphen"/>served, their souls are at rest, and in the peace of God. But these have not been in any particular distinct gather<g ref="char:EOLhyphen"/>ing, and clear separation out of the world, but scattered up and down in several mistaken forms, and loaded with the inventions of the earthly wis<g ref="char:EOLhyphen"/>dome, and with the bondage and weight of corruption, not knowing that clearness of spirit, and victory over sin, by the presence of the Life, which was felt and enjoyed by the Christians before the apostacy.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Had these any common Com<g ref="char:EOLhyphen"/>mandments?</p>
+               <p>
+                  <hi>Ans.</hi> Not so distinctly as the former: for they lying in an heap of Confusi<g ref="char:EOLhyphen"/>on, in a Wilderness or Chaos, scatter<g ref="char:EOLhyphen"/>ed in the Mysts and Fogs of Antichri<g ref="char:EOLhyphen"/>stian darkness one from another, had not such common beams of Light, or clear streams of life running among them, as those that had a more distinct gathering. Yet some testimony for God and against the corruption of the times, according to what was in their day and age to be testified for and a<g ref="char:EOLhyphen"/>gainst,
+<pb n="14" facs="tcp:172682:12"/> did run among every sort (of such as were true-hearted) in some kind or other. And for this they were hated and persecuted by men (even by such as were formal, and of another spirit) and also dearly tendered and beloved of the Lord.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Hath there been any further dispen<g ref="char:EOLhyphen"/>sation of life since the Apostacy?</p>
+               <p>
+                  <hi>Ans.</hi> There is another begun, whose glory is to exceed the former, after the darkness (which overspread and cloud<g ref="char:EOLhyphen"/>ed the beauty of the former) is expel<g ref="char:EOLhyphen"/>led by the growing brightness of this appearance.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> How may it appear that there is a<g ref="char:EOLhyphen"/>nother?</p>
+               <p>
+                  <hi>Ans.</hi> There is no knowing this dis<g ref="char:EOLhyphen"/>pensation, but by being gathered into the Light of it. Wisdom hath been a<g ref="char:EOLhyphen"/>lone justified of her Children in former ages, and she can be justified by none else, in her appearance in this age.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> What is the difference of this from the former?</p>
+               <p>
+                  <hi>Ans.</hi> It is more inward, more reti<g ref="char:EOLhyphen"/>red, more closely depending upon the principle of Life in the Spirit, than the former.</p>
+            </div>
+            <div type="question">
+               <pb n="15" facs="tcp:172682:12"/>
+               <p>
+                  <hi>Qu.</hi> Is it then the same in substance?</p>
+               <p>
+                  <hi>Ans.</hi> Yes, the very same. The very same truth of Christ Jesus, the very same building of God in the spirt, the very same Church is to be again brought forth: but in greater glory, that being now to be left out whereby the Enemy then entered, and also de<g ref="char:EOLhyphen"/>grees of beauty, strength and perfecti<g ref="char:EOLhyphen"/>on, being to be added.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> But surely a greater glory than that in the Apostles dayes is not to be expected; nay it is not the belief of many that ever that shall be restored?</p>
+               <p>
+                  <hi>Ans.</hi> This ariseth from the unbelief, and want of the sight of the thing by the right eye in the true Light. For the travel of the Eternal Spirit in its Dis<g ref="char:EOLhyphen"/>pensations, is towards perfection: and after the darkness of Antichrist, the brightness of the Light of Life is to shine more clear than ever, as is abun<g ref="char:EOLhyphen"/>dantly testified in the Scriptures (e<g ref="char:EOLhyphen"/>specially in the Book of the <hi>Revcla<g ref="char:EOLhyphen"/>tions)</hi> and also seen by many in the clear openings of the same Eternal Spirit.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Are there any common Commands given forth in this Dispensation?</p>
+               <pb n="16" facs="tcp:172682:13"/>
+               <p>
+                  <hi>Ans.</hi> Yes, unto all who are gather<g ref="char:EOLhyphen"/>ed into the Spirit of it. They all feel the same common commands unto se<g ref="char:EOLhyphen"/>veral things, according to the na<g ref="char:EOLhyphen"/>ture and drift of this Dispensati<g ref="char:EOLhyphen"/>on.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> What are they?</p>
+               <p>
+                  <hi>Ans.</hi> They are many, and concern many things (to wit, their meetings to worship and wait on the Lord, who hath visited and gathered them, toge<g ref="char:EOLhyphen"/>ther with their way of worshipping, as also their converse and conversation amongst men, &amp;c.) which are not ea<g ref="char:EOLhyphen"/>sily specified: neither indeed are they fit to be held forth to man's disputing wisdom, but to be waited for in the Spirit, where the light of them is evi<g ref="char:EOLhyphen"/>dent, and the strength to perform them received and held.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> But how may men know that these are true Commands of the Lord, and not imaginations or opinions of their own?</p>
+               <p>
+                  <hi>Ans.</hi> When the Principle of Life is known and that, which God hath be<g ref="char:EOLhyphen"/>gotten, felt in the heart; the distincti<g ref="char:EOLhyphen"/>on between what God opens and re<g ref="char:EOLhyphen"/>quires there, and what springs up in
+<pb n="17" facs="tcp:172682:13"/> mans wisdom, reason and imagination, is very manifest.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Are there particular Commands to particular persons, besides these?</p>
+               <p>
+                  <hi>Ans.</hi> As every heart hath its own particular state, which is onely fully known to the Spirit of the Lord, who is the Leader of the soul out of its dark<g ref="char:EOLhyphen"/>ness and captivity, and the Exerciser of it in what he judgeth proper to its present state: so the Lord giveth out particular Commands as he pleaseth, either to do or forbear such a thing, as he judgeth it necessary for the soul.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> How may these be k<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>own?</p>
+               <p>
+                  <hi>Ans.</hi> By coming into acquaintance with the Lord, and the movings and voice of his Spirit. First, the quick<g ref="char:EOLhyphen"/>enings of the Spirit of the Lord are to be received into the heart▪ then the eye fixed; in that which is quicken<g ref="char:EOLhyphen"/>ed, on him that quickened it, and all the inward sences waiting upon him, and exercised towards him. Thus the sheep come to know the voice of the Shepherd, and to follow his leadings into the Pastures of Life, and out of the pathes and feedings of Death, and is drawn on by him towards any thing, or stopt by him from any thing at his pleasure.</p>
+               <pb n="18" facs="tcp:172682:14"/>
+               <q>O that the sons of men knew their God, and were gathered into any living dispensation by him, wherein they might have the true sence and seeking of him. O that mens souls were awakened to feel the want of the breath of life from whence they came. O that the Seed of Israel were redeemed by their God, that their glory and beauty in his pure life might awaken the Nations. O God, ha<g ref="char:EOLhyphen"/>sten thy work in the world; bring the glory and wisdom of man into contempt, and bring forth thine own glory and wisdom in its pure brightness.</q>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="19" facs="tcp:172682:14"/>
+            <head>
+               <hi>Some Questions and An<g ref="char:EOLhyphen"/>swers concerning the Seed of</hi> Israel <hi>and the true Church.</hi>
+            </head>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> WHo are the Seed of Israel?</p>
+               <p>
+                  <hi>Ans.</hi> They who are be<g ref="char:EOLhyphen"/>gotten of the Spirit and Nature of the Eternal Father and Fountain of Life, out of the spirit and nature of this World.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Are there such a seed in the earth?</p>
+               <p>
+                  <hi>Ans.</hi> Yea, and have always been, who have stil been the blessing of this world, though constantly hated and persecu<g ref="char:EOLhyphen"/>ted by it.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Why are they hated by the world?</p>
+               <p>
+                  <hi>Ans.</hi> Because they are not of the World, but faithful Witnesses against it, testifying unto it, that its wayes are evil, and its end misery.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Why do they thus testifie?</p>
+               <pb n="20" facs="tcp:172682:15"/>
+               <p>
+                  <hi>Ans.</hi> It is their nature, and God cal<g ref="char:EOLhyphen"/>leth them thereunto. He hath set up his Light in their hearts, to shine forth in the World, and scatter the dark<g ref="char:EOLhyphen"/>ness.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> How do they scatter the dark<g ref="char:EOLhyphen"/>ness? doth not the darkness rather scatter them?</p>
+               <p>
+                  <hi>Ans.</hi> The darkness doth indeed often prevail against them outwardly, hunt<g ref="char:EOLhyphen"/>ing and scattering them up and down upon the face of the earth: but they still prevail inwardly, in the testimony of mens Consciences, over the dark<g ref="char:EOLhyphen"/>ness, who at one time or other, are generally made to acknowledge in the secrets of their hearts, that they are of God?</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Why doth the Lord suffer it to be thus, that that which is precious, and of him, should be trodden under foot by that which is not of him?</p>
+               <p>
+                  <hi>Ans.</hi> The Lord hath his seasons for the d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>scovery of all things. He hath given the Kingdom of Darkness its time and power to reign over the Just, and to keep the holy Seed in bondage and captivity; and he hath also appointed his suffering Seed its season of suffering
+<pb n="21" facs="tcp:172682:15"/> in all ages and generations. And by these, and through these the nature of each is discovered, their ends, and their suitableness to their ends.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> But shall this holy Seed always suffer in this world?</p>
+               <p>
+                  <hi>Ans.</hi> Nay, not so: for the Lord hath a day to raise the Just into domini<g ref="char:EOLhyphen"/>on over the unjust, even here in this world?</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> When shall this be?</p>
+               <p>
+                  <hi>Ans.</hi> When the malice and persecu<g ref="char:EOLhyphen"/>tions of the Enemies of the pure Seed are filled up, and the measure of its sufferings finished.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Where are this Seed?</p>
+               <p>
+                  <hi>Ans.</hi> They are (as yet, for the gene<g ref="char:EOLhyphen"/>rality) scattered up and down under the face of the whole Heaven. Not to be found in a visible body gathered to<g ref="char:EOLhyphen"/>gether, but scattered up and down, here a few, and there a few; here one, and there another.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Were they then once in a body?</p>
+               <p>
+                  <hi>Ans.</hi> Yea, they were once embodied: for after God had cast off the natural Seed, the <hi>Jews,</hi> he gathered the spiri<g ref="char:EOLhyphen"/>tual Seed into a Body, setting them as a City on a Hill, and making them the Light of the world.</p>
+               <pb n="22" facs="tcp:172682:16"/>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> How came they afterwards to be scattered?</p>
+               <p>
+                  <hi>Ans.</hi> The Dragon hath done this, God suffering him many wayes to as<g ref="char:EOLhyphen"/>sault this Building, and so far at length to prevail over it, even to scatter his Church out of her built state, into a Wilderness state, where no eye can discern her any more, but that which is of God. (Wait to read <hi>Rev.</hi> 12. in the Light of that Spirit which wrote it.)</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Why did God suffer the Dragon to prevail over so precious and glorious a Buil<g ref="char:EOLhyphen"/>ding?</p>
+               <p>
+                  <hi>Ans.</hi> Because there was somewhat of the power of darkness necessary to be made manifest, which could not be o<g ref="char:EOLhyphen"/>therwise so made manifest, as by this its prevailing: and also that he might shew the necessity of; and make way for the bringing forth of that, over which the power of darkness cannot prevail.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Is there then such a thing to be brought forth?</p>
+               <p>
+                  <hi>Ans.</hi> Yea. There is a Church, there is a Spiritual building against which the Gates of Hell can never prevail, which
+<pb n="23" facs="tcp:172682:16"/> is so united to the Rock, as the Powers of darkness can by no means come be<g ref="char:EOLhyphen"/>tween the Rock and it.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Is this Church, and the Church in the Apostles dayes different, or the same?</p>
+               <p>
+                  <hi>Ans.</hi> This Church hath been in all ages, but a more full and perfect bringing forth in the Apostles dayes, than in any age before: yet not such a bringing forth outwardly, as might not be driven back. And therefore did the Lord suffer it to be assaulted and prevailed over, in that wherein it was weak through the outwardness of it, that (after many dayes) he might manifest his strength in bringing it forth more perfectly.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Where hath this Church been these many ages, since the Dragons sore assault and overcoming it, as to its outward<g ref="char:EOLhyphen"/>ness?</p>
+               <p>
+                  <hi>Ans.</hi> In the Wilderness, <hi>Rev.</hi> 12.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> What Wilderness? any visible, out<g ref="char:EOLhyphen"/>ward Wilderness?</p>
+               <p>
+                  <hi>Ans.</hi> It is a parable, representing the scattered state of the Seed, after God's presence was with drawn from the vi<g ref="char:EOLhyphen"/>sible building, and it laid wast as to his
+<pb n="24" facs="tcp:172682:17"/> life, and the appearances of his Spirit, and the Dragon got into, and seated in the form, (2 <hi>Thess.</hi> 2. 4.) then the seed and appearances of God were to be found elsewhere, and not in those buil<g ref="char:EOLhyphen"/>dings.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> How were those Churches, or Buildings in the Apostles dayes laid waste?</p>
+               <p>
+                  <hi>Ans.</hi> The presence of the Life and Power makes the form living: and no longer is it, or can it be so, than the Life and Power remains with it. Now they not abiding in the Life and in the Power (the Apostacy coming, spoken of 2 <hi>Thess.</hi> 2. 3.) the Life and the Power also withdrew from them, and left them the dead form, into which the Prince of Death immediately enters: and so that which was a Church unto God, while the life abode there, and they in the life, becomes a Synagogue of Satan, he entering into the dead form, and being worshipped there in the dead form. So that it is not any outward gathering or profession that makes a Church under the New-Testa<g ref="char:EOLhyphen"/>ment, but onely the life and power. That gathering which is in the Life and
+<pb n="25" facs="tcp:172682:17"/> Power, is a true Church: that which is not, is a Synagogue of Satan, let them profess what they will. For the living God dwels in living Temples onely, and the Prince of Death dwells in all the territories of death.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> According to this Rule there are, or have been few true Churches of God in the World, since the dayes of the A<g ref="char:EOLhyphen"/>postles.</p>
+               <p>
+                  <hi>Ans.</hi> The true Church hath been in a Wilderness-state since the days of the Apostles. A scattered Seed have her Children been, and she a Widow for<g ref="char:EOLhyphen"/>saken, God providing a place for the inward part of his Building, and gi<g ref="char:EOLhyphen"/>ving up the outward part to the for<g ref="char:EOLhyphen"/>mal spirit, to the possession of the pow<g ref="char:EOLhyphen"/>ers of Darkness. Read <hi>Rev.</hi> 11. 1, 2. The Lord by the withdrawing of his Spirit took down his own Building, gave up the outward Court to the Gentiles, re<g ref="char:EOLhyphen"/>moved the inward Temple, Altar and Worshippers into the Wilderness. And since that time, men have built many Buildings, in the imitation of that which God built (every sort accord<g ref="char:EOLhyphen"/>ing to their skill, and reasonings of
+<pb n="26" facs="tcp:172682:18"/> their Wisdom about the thing) but they are not the same Building. But the true Building, the true Church is reproa<g ref="char:EOLhyphen"/>ched by all these Builders, and not known to be the thing, because hid from their eye.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> When shall this true Church ap<g ref="char:EOLhyphen"/>pear again?</p>
+               <p>
+                  <hi>Ans.</hi> When God, who gave her the wings of an Eagle to flye into the Wilderness, bringeth her the same Wings again, to flye out. Then shall she come forth cloathed with the Sun again, and with the Moon under her feet, and with her Crown of Stars.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> How may it appear, that those pre<g ref="char:EOLhyphen"/>sent Buildings which are to be found in the world, are not true Churches?</p>
+               <p>
+                  <hi>Ans.</hi> Because they are built by men, and their strength stands not in the de<g ref="char:EOLhyphen"/>monstration and power of the Spirit, but in the wisdom and power of man. Take away that, they soon crumble and molder of themselves. Besides, they are not cloathed with the Sun, have not the Moon under their feet, nor know not the travel to bring forth the Man-child, which the true
+<pb n="27" facs="tcp:172682:18"/> Church knows, even in the Wilder<g ref="char:EOLhyphen"/>ness.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Why do men keep up such Buildings, and not rather mourn after the true Building of God, which is built and preserved in the light and power of his Spirit?</p>
+               <p>
+                  <hi>Ans.</hi> Antichrist's time is not yet fully ended, nor the mysts wherewith he blinds mens eyes scattered, nor the Cup of his Fornications (which makes every one drunk and besotted, as to the sight and knowledge of the true Church, which drinks of it) taken from mens lips.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> How may I know the true Church?</p>
+               <p>
+                  <hi>Ans.</hi> By being born of God's Spi<g ref="char:EOLhyphen"/>rit, and looking with that eye which he gives to those whom he begets, in that Light of Life which shineth from his presence: Here his holy Church and true Spouse is discerned and distin<g ref="char:EOLhyphen"/>guished from all false resemblances and vain pretenders.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> Are there then many resemblances of the true Church, and pretenders to be such, which are not so indeed?</p>
+               <p>
+                  <hi>Ans.</hi> Yes. There is the Mother of Harlots, <hi>Revel.</hi> 17. 5. and her many
+<pb n="28" facs="tcp:172682:19"/> daughters; all which pretend to be the true Churches of Christ, but want that life in themselves, and that Union in Sp<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit with him, which alone can make such.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> What makes a true Church?</p>
+               <p>
+                  <hi>Ans.</hi> That alone which makes a spiri<g ref="char:EOLhyphen"/>tual body, and which unites that body to the Head. There must be a true na<g ref="char:EOLhyphen"/>ture, and the union of that nature to the Head, or there cannot be a Marri<g ref="char:EOLhyphen"/>age in spirit to the Lamb. Now the true Church is Christ's Spouse, <hi>bone of his bone, and flesh of his flesh;</hi> as truly of the seed of <hi>Abraham</hi> after the spirit, as the <hi>Jews</hi> were after the flesh. And as he that saith he is a <hi>Jew,</hi> but wanteth the true circumcision of the heart and spirit, doth but lye, and is not indeed so. So they that say they are a Church, but want the nature of the Church, they also lye, and are not a true gather<g ref="char:EOLhyphen"/>ing of Christians out of the world, but a Synagogue of Satan, still abiding and worshipping in the spirit of the world. <hi>(Rev.</hi> 2. 9. &amp; ch. 3. 9.)</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> May not the true Church be known by outward visible marks, as most persons de<g ref="char:EOLhyphen"/>scribe
+<pb n="29" facs="tcp:172682:19"/> and seek to find and distinguish her by?</p>
+               <p>
+                  <hi>Ans.</hi> No, not possibly in her Wilder<g ref="char:EOLhyphen"/>ness-state, nor hardly in her built<g ref="char:EOLhyphen"/>state.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Why not possibly in her Wil<g ref="char:EOLhyphen"/>derness state?</p>
+               <p>
+                  <hi>Ans.</hi> Because there she is stripped of them, and the Harlots or false Churches are cloathed w<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th them. M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk the thing: In the very Apostles dayes, the false Ministers and false Christians got into the form, and de<g ref="char:EOLhyphen"/>nied the power, 2 <hi>Tim.</hi> 3▪ 5. No<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> after a season God leaves the form <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o them <hi>(Revel.</hi> 11. 2) gathering his Church out of that appearance into the hidden power. Here is the W<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>derness into which the Church fled: the Life, the Power, which before ap<g ref="char:EOLhyphen"/>peared in the form, being withdrawn and separated from the form, and the living Seed gathered into it, and worsh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pping in it. And who can now find the Church, or learn the Wor<g ref="char:EOLhyphen"/>sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p? Here the eye of the Seed is tri<g ref="char:EOLhyphen"/>ed, and the Wisdom of the Spirit of the true Disciple. And here, ever
+<pb n="30" facs="tcp:172682:20"/> since, all the World have been jang<g ref="char:EOLhyphen"/>ling about the Form, while the true Witnesses have been mourning after the Power, testifying concerning the Power, and enjoying what was to be given forth of it, in the present way of its dipensation in the Wilder<g ref="char:EOLhyphen"/>nesse.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Why hardly in her built<g ref="char:EOLhyphen"/>state?</p>
+               <p>
+                  <hi>Ans.</hi> Because even then such va<g ref="char:EOLhyphen"/>riety of resemblances and likenesses of the true Church may be built, as cannot be distinguished from the true it self by any outward marks. There were in the Apostles dayes false Apo<g ref="char:EOLhyphen"/>stles, false Ministers and false Chur<g ref="char:EOLhyphen"/>ches; which though they appeared as the Apostles of Christ, as the Mini<g ref="char:EOLhyphen"/>sters of Righteousness, as the Chur<g ref="char:EOLhyphen"/>ches of Christ; yet they were not so, but <hi>false Apostles, deceitful workers,</hi> and <hi>Synagogues of Satan.</hi> Now they which intend to deceive, appear most exact<g ref="char:EOLhyphen"/>ly in the Form, and with the out<g ref="char:EOLhyphen"/>ward Marks, if need require: and that which is true and substantial, is not so regardful of the outward form,
+<pb n="31" facs="tcp:172682:20"/> but minds the inward life, truth and substance. He therefore that judges by the form and outward marks, cannot but judge that to be the true Spouse which appears most in the form, and with the outward marks, and so is very liable to be deceived and err, by judg<g ref="char:EOLhyphen"/>ing some of the false Churches to be true, and the true to be false.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> What am I to do when I know the true Church?</p>
+               <p>
+                  <hi>Ans.</hi> To wait in that, which gives to be a Member of it, and gives true Uni<g ref="char:EOLhyphen"/>on with it, whether it be in its Wilder<g ref="char:EOLhyphen"/>ness-state, or in its built-state. For the same Spirit which begets the Child in the true life, will also lead to the Church: and in that Wisdom which is from above, the true Church will ne<g ref="char:EOLhyphen"/>ver be missed of; but in the earthly reasonings and guessings of mans wis<g ref="char:EOLhyphen"/>dom, God's Church, (or New-Testa<g ref="char:EOLhyphen"/>ment-building in the power of his Spirit) is easily missed. And he that misseth of this, and is out of the pale of it, is it possible he should meet with the true salvation? He that hath an ear to hear, let him hear; and he that hath
+<pb n="32" facs="tcp:172682:21"/> but so much as the heart of a man, let him consider: For the thing is of great weight, and of deep concernment to the soul.</p>
+               <p>Well, have but patience a while, and the true Church (which God's Spirit builds) shall be known, and all the false Churches of mens building shall be known also. And that which God hath built, shall have the power from God, and the praise among men; and all the <hi>Babylonish</hi> buildings, of mans confused spirit, and inconsistent wisdom, shall vanish away like smoke, and become a stink in all Nostrils. For strong is the Lord God of Heaven and Earth, who is confounding <hi>Babylon</hi> in all her gaudy attire, and glorious appearances, and raising up his <hi>Sion</hi> out of the dust. </p>
+               <closer>A<g ref="char:EOLhyphen"/>men. Halelujah.</closer>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="33" facs="tcp:172682:21"/>
+            <head>
+               <hi>Some further Questions and Answers concern<g ref="char:EOLhyphen"/>ing the Seed of</hi> Israel.</head>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> OUt of what womb doth the Seed of <hi>Israel</hi> spring?</p>
+               <p>
+                  <hi>Ans.</hi> Out of the Nature of Eternal Life, out of the Bosom of Eternal Love, out of the <hi>Ierusalem</hi> which is above, which is free, and the Mother of all that are born of the Spirit.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> By what Covenant are the Children of <hi>Israel</hi> brought <hi>up?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By the Covenant of Faith in the love of the Father, which gives <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ife and strength to obey.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Is there obedience required in the New-Covenant?</p>
+               <p>
+                  <hi>Ans.</hi> Yes, the obedience of Faith: the subjection of the nature and heart
+<pb n="34" facs="tcp:172682:22"/> of the child to the nature and will of the Father, which is as fully natural in the substance, as it can be represented in any figure or shadow.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> What if there be disobedience?</p>
+               <p>
+                  <hi>Ans.</hi> The Seed it self cannot diso<g ref="char:EOLhyphen"/>bey: but the Vessel in which it is sown, and to which it is united, may prove weak, frail, brittle, yea sometimes stubborn; the weight and chastisement whereof the Seed also bears, and in pa<g ref="char:EOLhyphen"/>tient suffering helps and cleanses the Vessel through the virtue of the blood of Jesus, which is felt in the Seed which comes from Jesus. And here is the blood of sprinkling known in the soul, which cleanses the Conscience from dead works, and washes away the ini<g ref="char:EOLhyphen"/>quity thereof.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Quest.</hi> Can any fall from this Cove<g ref="char:EOLhyphen"/>nant?</p>
+               <p>
+                  <hi>Ans.</hi> The Covenant is with the Seed for ever, and with the Seeds seed also is it firm: but the streamings forth of the L<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght of the Covenant do not al<g ref="char:EOLhyphen"/>wayes beget a Seed, but onely some<g ref="char:EOLhyphen"/>times set mans nature on work, draw<g ref="char:EOLhyphen"/>ing forth the faith, love and obedience
+<pb n="35" facs="tcp:172682:22"/> thereof. Now this will not hold. All flesh is grass, and at one time or other will fade and wither: but there must be a being begotten of the word, to live and abide for ever.</p>
+            </div>
+            <div type="question">
+               <p>Qu. How is this begetting?</p>
+               <p>
+                  <hi>Ans.</hi> In the weakening of man's strength day by day, and raising up the seed, which seed gives life and strength to him that is weakened in the manhood.</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> How is this done?</p>
+               <p>
+                  <hi>Ans.</hi> First by drawing forth what is in the man, and then by trying its strength, distressing the man with ex<g ref="char:EOLhyphen"/>ercises beyond him. Thus the working man is brought down by the requirings of the Law, they being too hard for him, and the believing Seed is raised up, who in the virtue of the living faith (whereof he receiveth supplies from the breath of eternal Life) fulfils the righteousness of the Law in the man, and also communicates a righte<g ref="char:EOLhyphen"/>ousness of an higher nature unto him.</p>
+            </div>
+            <div type="question">
+               <p>Qu. VVhy doth God take this course with man?</p>
+               <p>
+                  <hi>Ans.</hi> It is proper and natural. How
+<pb n="36" facs="tcp:172682:23"/> can an higher Principle be raised in man, but by the death of the former? And how can the former dye, but by such exercises, trials and distresses as are proper to wear out the strength of its nature, and bring it into the no<g ref="char:EOLhyphen"/>thingness, where that which is, springs up, when it hath brought down that which appeared, but was not?</p>
+               <p>O who can understand God's works in the world? who can read the my<g ref="char:EOLhyphen"/>sterie of Life and Death in man? O what a worm is man before his God? What is his nature? In what state is he able to walk with his God? God can keep covenant with man in any kind of dispensation; but man still fails; his heart deceives him, and he is not able to attain unto, or maintain any consi<g ref="char:EOLhyphen"/>derable proport<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of happiness to his soul by his convenant?</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> VVhat is man's Covenaent?</p>
+               <p>
+                  <hi>Ans.</hi> That which his nature desires of God to make him happy. That Light, that Counsel, tha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Strength, that P<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>sence which his nature thinks suffici<g ref="char:EOLhyphen"/>ent, will not carry him through. Nay, let God shew Grace and Mercy, and
+<pb n="37" facs="tcp:172682:23"/> add helps unto him in the riches of his love, yet this will not do. How doth man fall in every dispensation, where there is any stress laid on this Covenant, though God is able to be a Father and an husband therein!</p>
+            </div>
+            <div type="question">
+               <p>
+                  <hi>Qu.</hi> What is God's Covenant?</p>
+               <p>
+                  <hi>Ans.</hi> That which his nature sees need<g ref="char:EOLhyphen"/>ful to make man happy in him, and to keep man in the enjoiment of his hap<g ref="char:EOLhyphen"/>piness. This, so far as it is dispensed, car<g ref="char:EOLhyphen"/>ries through; and when it is dispensed perfectly, will bring forth the perfect re<g ref="char:EOLhyphen"/>demption and happiness of the crea<g ref="char:EOLhyphen"/>ture.</p>
+               <p>Now then that soul that would travel towards life eternal:</p>
+               <p>
+                  <hi>First,</hi> Wait to feel a principle of life awakened, raised up, sowen in thy earth by the living God.</p>
+               <p>
+                  <hi>2ly.</hi> Wait to receive all the Light of Life in every kind, that the Father of Lights shal please to cause to shine in thy heart, from this principle.</p>
+               <p>
+                  <hi>3ly.</hi> Be content to be tried and di<g ref="char:EOLhyphen"/>stressed, and have thy strength broken day by day, and thy wisdom confound<g ref="char:EOLhyphen"/>ed, that thou maist sink into and pass a<g ref="char:EOLhyphen"/>way
+<pb n="38" facs="tcp:172682:24"/> in the weakness and foolishness which the Lord will bring upon thee be<g ref="char:EOLhyphen"/>fore the wisdom and strength of his life appear in thee.</p>
+               <p>
+                  <hi>4ly.</hi> Keep thine eye and heart on the grace that first visited thee, that there thy footing may be, and thy hopes fast<g ref="char:EOLhyphen"/>ned. O receive the Light still from the hand of grace, and look up thither for strength to obey the Light, that the earthly man get not a life in the obedi<g ref="char:EOLhyphen"/>ence, and thou forget the grace, and thy need of Christ the annointed of the Lord; and so thou live on what thou hast re<g ref="char:EOLhyphen"/>ceived from God, and not Christ live in thee, and look upon thy working obedi<g ref="char:EOLhyphen"/>ence as the righteousness, and feel not the righteousness of Christ, which is the free justification of his life and power, washing away the guilt of the ungod<g ref="char:EOLhyphen"/>ly.</p>
+               <p>Ah narrow is the path that leads unto life, none can enter in at it, but the feed, and the seeds seed, even that which dies in the creatureship, in the principle which <hi>Adam</hi> received from the Lord, and springs up in the nature and being of this seed. Read this, O travellers towards the
+<pb n="39" facs="tcp:172682:24"/> Holy Land, with the eye which God cre<g ref="char:EOLhyphen"/>ates, that ye may run certainly in his be<g ref="char:EOLhyphen"/>gettings, in his creatings, in his leadings towards his land of eternal rest, even in the certain law and power of his endless life, and not in the uncertain reasonings, imaginings, and guessings at things by the humane understanding.</p>
+            </div>
+         </div>
+         <trailer>THE END</trailer>
+      </body>
+   </text>
+</TEI>
